@@ -4,10 +4,23 @@
 ### 🛠️ Find me here:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yamini-sharma-780/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/YaminiSharma780" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/Yamini_Sharma_" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge"/></a>
-  <a href="https://www.instagram.com/yamini.ys/#" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yamini-sharma-780/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yamini_Sharma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<!-- GitHub -->
+<a href="https://github.com/YaminiSharma780" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-YaminiSharma780-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<!-- Twitter -->
+<a href="https://twitter.com/Yamini_Sharma_" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/Yamini_Sharma_?logo=twitter&style=for-the-badge" alt="Twitter" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/yamini.ys/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-yamini.ys-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
 ### 🛠️ Languages and Tools:
