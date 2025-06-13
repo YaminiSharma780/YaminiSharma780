@@ -50,4 +50,3 @@
 
 - Email: [reachmeout005@gmail.com](mailto:reachmeout005@gmail.com)
 - LinkedIn: [yamini-sharma-780](https://www.linkedin.com/in/yamini-sharma-780/)
-- Portfolio: [yaminizportfolio](https://yaminizportfolio.netlify.app/)
